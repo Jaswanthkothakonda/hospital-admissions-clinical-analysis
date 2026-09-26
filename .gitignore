@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+
+# Power BI local report file
+*.pbix
+
+# Raw/local dataset files
+data/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated CSV datasets
+outputs/*.csv
